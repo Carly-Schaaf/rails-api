@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: rails_api_development
   pool: 5
-  username: carly
+  username: carlyschaaf
   password:
   timeout: 5000
  
@@ -49,7 +49,7 @@ test:
   encoding: unicode
   database: rails_api_test
   pool: 5
-  username: carly
+  username: carlyschaaf
   password:
   timeout: 5000
 
@@ -58,5 +58,5 @@ production:
   encoding: unicode
   database: rails_api_production
   pool: 5
-  username: carly
+  username: carlyschaaf
   password:
